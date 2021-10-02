@@ -286,10 +286,13 @@ class HomePage extends StatelessWidget {
     'Rust',
     'React Native',
     'Flutter',
+    'PWA'
     'Android',
     'iOS',
     'Docker',
-    'PostgresSQL',
+    'Kubernetes'
+    'PostgreSQL',
+    'MongoDB'
     'Reactive Programming',
     'Tensorflow.js'
   ];
